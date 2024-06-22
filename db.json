@@ -1,0 +1,58 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "title": "mobin",
+      "userName": "mobin-kh",
+      "email": "mobin-kh@gmail.com",
+      "rule": "ADMIN",
+      "password": 12345678
+    },
+    {
+      "id": "2",
+      "title": "mmd",
+      "userName": "mmd-tq",
+      "email": "mmd-tq@gmail.com",
+      "rule": "USER",
+      "password": 12345678
+    },
+    {
+      "id": "3",
+      "title": "ali",
+      "userName": "ali-full",
+      "email": "ali-full@gmail.com",
+      "rule": "USER",
+      "password": 12345678
+    },
+    {
+      "title": "mohsen",
+      "userName": "mohsen-akbary",
+      "email": "mohsen-ak@gmail.com",
+      "rule": "USER",
+      "password": "12345678",
+      "id": "IjHWR9E"
+    },
+    {
+      "title": "ahmad",
+      "userName": "ahmad-lagy",
+      "email": "ahmad-lg@gmail.com",
+      "rule": "USER",
+      "password": "12345678",
+      "id": "1ndt1Y1"
+    }
+  ],
+  "products": [
+    {
+      "id": "3",
+      "name": "ipad",
+      "price": 150000,
+      "count": 5
+    },
+    {
+      "name": "Mostang",
+      "price": 200000002,
+      "count": 3,
+      "id": "kXvE7zy"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+.active {
+    visibility: visible !important;
+    opacity: 1 !important;
+    display: flex !important;
+}
+
+.inactive-header {
+    visibility: hidden !important;
+    opacity: 0 !important;
+    display: none !important;
+}
+
+.bgc-white {
+    background-color: #fff !important;
+}
